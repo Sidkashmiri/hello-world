@@ -1,2 +1,3 @@
 # hello-world
-i'm a event organizer but i am more interested in robotics. i love science 
+Event organizer and love science i know its a wierd combination.
+
